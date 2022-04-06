@@ -10,3 +10,5 @@ Finally delete the paks.Rproj file and the README.md file so there are no residu
 Last put this project under configure control by git -- go to Tools->Version Control->git
 Finally return to your shared library on rstudio.cloud and make the project "visible to all"
 Then set mypaks as your default working directory in your rstudio.cloud shared space
+##########
+Change as of 05Apr2022
